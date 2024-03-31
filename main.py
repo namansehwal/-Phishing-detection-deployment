@@ -1,17 +1,16 @@
 import warnings
 import os
-
-from flask import Flask, request, jsonify
-import joblib
-import numpy as np
 import datetime
+import threading
+
+from flask import Flask, request, jsonify, render_template
+import joblib
 from connect_database import add_entry, fetch_all_entries
 
 from utils.url_parser import URLParser
 
-import threading
-
 app = Flask(__name__)
+
 
 
 model_path = os.path.join(
@@ -34,14 +33,14 @@ def predict():
     output = prediction[0].item()  # Convert numpy integer to Python integer
     # Add an entry
     result = "safe" if output == 0 else "phishing"
-
+    print(parser.np_array())
     store_thread = threading.Thread(
         target=add_entry,
         args=(
             ip_address,
             datetime.datetime.now(),
             url,
-            result + str(parser.np_array()),
+            result,
         ),
     )
     store_thread.start()
@@ -67,6 +66,44 @@ def fetch():
 
     return jsonify(all_entries)
 
+@app.route("/history", methods=["GET"])
+def fetchui():
+    all_entries = fetch_all_entries()
+
+    return render_template("history.html", history=all_entries)
+
+@app.route("/", methods=["POST", "GET"])
+def predictui():
+    if request.method == "GET":
+        return render_template('index.html', prediction="Enter URL to check if phishing or not", url=None)
+    elif request.method == "POST":
+        url = request.form["url"]
+        try:
+            ip_address = request.remote_addr
+
+            parser = URLParser(url)
+
+            prediction = model.predict(parser.np_array())
+
+            output = prediction[0].item()  # Convert numpy integer to Python integer
+            # Add an entry
+            result = "safe" if output == 0 else "phishing"
+            print(parser.np_array())
+            store_thread = threading.Thread(
+                target=add_entry,
+                args=(
+                    ip_address,
+                    datetime.datetime.now(),
+                    url,
+                    result,
+                ),
+            )
+            store_thread.start()
+            message = "Prediction says phishing URL" if output == 1 else "Prediction says safe browsing URL"
+            return render_template('index.html', prediction=message, url=url)
+        except Exception as e:
+            print(e)
+            return render_template('index.html', prediction="broken url", url=url)
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
