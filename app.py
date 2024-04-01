@@ -2,6 +2,7 @@ import warnings
 import os
 import datetime
 import threading
+import logging
 
 from flask import Flask, request, jsonify, render_template
 import joblib
@@ -18,6 +19,7 @@ model_path = os.path.join(
 )
 model = joblib.load(model_path)
 
+logging.basicConfig(filename='app.log', format="%(levelname)s:%(name)s:%(message)s")
 
 @app.route("/predict", methods=["POST"])
 def predict():
