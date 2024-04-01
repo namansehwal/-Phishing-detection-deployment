@@ -12,7 +12,6 @@ from utils.url_parser import URLParser
 app = Flask(__name__)
 
 
-
 model_path = os.path.join(
     os.path.dirname(__file__), "utils/trained_models/phishing_model.pkl"
 )
@@ -33,7 +32,7 @@ def predict():
     output = prediction[0].item()  # Convert numpy integer to Python integer
     # Add an entry
     result = "safe" if output == 0 else "phishing"
-    print(parser.np_array())
+
     store_thread = threading.Thread(
         target=add_entry,
         args=(
@@ -66,16 +65,18 @@ def fetch():
 
     return jsonify(all_entries)
 
+
 @app.route("/history", methods=["GET"])
 def fetchui():
     all_entries = fetch_all_entries()
 
     return render_template("history.html", history=all_entries)
 
+
 @app.route("/", methods=["POST", "GET"])
 def predictui():
     if request.method == "GET":
-        return render_template('index.html', prediction="Enter URL to check if phishing or not", url=None)
+        return render_template("index.html", prediction="", url=None)
     elif request.method == "POST":
         url = request.form["url"]
         try:
@@ -99,11 +100,16 @@ def predictui():
                 ),
             )
             store_thread.start()
-            message = "Prediction says phishing URL" if output == 1 else "Prediction says safe browsing URL"
-            return render_template('index.html', prediction=message, url=url)
+            message = (
+                "Prediction says phishing URL"
+                if output == 1
+                else "Prediction says safe browsing URL"
+            )
+            return render_template("index.html", prediction=message, url=url)
         except Exception as e:
             print(e)
-            return render_template('index.html', prediction="broken url", url=url)
+            return render_template("index.html", prediction="broken url", url=url)
+
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)

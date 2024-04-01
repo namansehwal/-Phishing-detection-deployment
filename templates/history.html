@@ -1,45 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Phishing Data</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 8px;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phishing Data</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/semantic.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/2.0.3/css/dataTables.semanticui.css"
+    />
 
-<h2>Phishing Data</h2>
+    <style>
+      .etable {
+        margin: 50px;
+      }
+      h1 {
+        font-size: 40px;
+        margin-top: 30px;
+        margin-left: 20px;
+        font-family: "Arial", sans-serif;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1><a href="/">Phishing Data</a></h1>
+    <hr />
+    <div class="etable">
+      <table id="phishingTable" class="ui celled table" style="width: 100%">
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>IP</th>
 
-<table>
-  <tr>
-    <th>IP</th>
-    <th>Prediction</th>
-    <th>Time</th>
-    <th>URL</th>
-  </tr>
-  {% for val in history %}
-    <tr>
-        <td>{{ val.ip }}</td>
-        <td>{{ val.pred }}</td>
-        <td>{{ val.time }}</td>
-        <td>{{ val.url }}</td>
-    </tr>
-  {% endfor %}
+            <th>Time</th>
+            <th>Prediction</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for val in history %}
+          <tr>
+            <td>{{ val.url }}</td>
+            <td>{{ val.ip }}</td>
 
-</table>
+            <td>{{ val.time }}</td>
 
-</body>
+            <td>{{ val.pred }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/semantic.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.semanticui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.9.2/semantic.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $("#phishingTable").DataTable();
+      });
+    </script>
+  </body>
 </html>
