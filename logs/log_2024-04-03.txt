@@ -1,0 +1,453 @@
+2024-04-03 02:37:15,597 - WARNING -  * Debugger is active!
+2024-04-03 02:37:15,600 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:37:22,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 02:37:22,515 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 02:37:22,517 - INFO -  * Restarting with stat
+2024-04-03 02:37:23,619 - WARNING -  * Debugger is active!
+2024-04-03 02:37:23,622 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:37:44,120 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:37:44,203 - INFO -  * Restarting with stat
+2024-04-03 02:37:45,345 - WARNING -  * Debugger is active!
+2024-04-03 02:37:45,348 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:37:47,845 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:37:47,945 - INFO -  * Restarting with stat
+2024-04-03 02:37:49,105 - WARNING -  * Debugger is active!
+2024-04-03 02:37:49,108 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:38:10,658 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:38:10,750 - INFO -  * Restarting with stat
+2024-04-03 02:38:11,873 - WARNING -  * Debugger is active!
+2024-04-03 02:38:11,876 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:38:19,992 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:38:20,099 - INFO -  * Restarting with stat
+2024-04-03 02:38:21,262 - WARNING -  * Debugger is active!
+2024-04-03 02:38:21,266 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:39:06,509 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:39:06,636 - INFO -  * Restarting with stat
+2024-04-03 02:39:07,809 - WARNING -  * Debugger is active!
+2024-04-03 02:39:07,814 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:39:18,215 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:39:18,317 - INFO -  * Restarting with stat
+2024-04-03 02:39:19,467 - WARNING -  * Debugger is active!
+2024-04-03 02:39:19,470 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:39:42,125 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:39:42,219 - INFO -  * Restarting with stat
+2024-04-03 02:39:43,361 - WARNING -  * Debugger is active!
+2024-04-03 02:39:43,364 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:39:48,112 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:39:48,204 - INFO -  * Restarting with stat
+2024-04-03 02:39:49,359 - WARNING -  * Debugger is active!
+2024-04-03 02:39:49,363 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:42:01,099 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:42:01,186 - INFO -  * Restarting with stat
+2024-04-03 02:42:02,368 - WARNING -  * Debugger is active!
+2024-04-03 02:42:02,371 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:42:04,941 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:42:05,024 - INFO -  * Restarting with stat
+2024-04-03 02:48:47,778 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 02:48:47,778 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 02:48:47,779 - INFO -  * Restarting with stat
+2024-04-03 02:48:49,225 - WARNING -  * Debugger is active!
+2024-04-03 02:48:49,228 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:49:05,614 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:05,861 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:05] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-03 02:49:05,861 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:05] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-03 02:49:05,891 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:05] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-03 02:49:05,900 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:37,573 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:37,593 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:37,594 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:37,653 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:44,644 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:49:44,823 - INFO -  * Restarting with stat
+2024-04-03 02:49:46,286 - WARNING -  * Debugger is active!
+2024-04-03 02:49:46,290 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:49:47,101 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:47,407 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,408 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,423 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,434 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,653 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:47,666 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,667 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,701 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:47,713 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,089 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:48,100 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,104 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,137 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,150 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,342 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:48,356 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,356 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,389 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:48,403 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:56,912 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:49:57,086 - INFO -  * Restarting with stat
+2024-04-03 02:49:58,573 - WARNING -  * Debugger is active!
+2024-04-03 02:49:58,576 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:49:59,134 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:59,371 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:49:59,371 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:59,384 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:59,395 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:49:59,980 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:49:59,991 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:49:59,994 - INFO - 127.0.0.1 - - [03/Apr/2024 02:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:50:00,030 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:50:00,043 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:50:04,599 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:50:04,708 - INFO -  * Restarting with stat
+2024-04-03 02:50:06,108 - WARNING -  * Debugger is active!
+2024-04-03 02:50:06,111 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:50:12,106 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:50:12,244 - INFO -  * Restarting with stat
+2024-04-03 02:50:13,680 - WARNING -  * Debugger is active!
+2024-04-03 02:50:13,683 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:50:17,411 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:50:17,531 - INFO -  * Restarting with stat
+2024-04-03 02:50:19,119 - WARNING -  * Debugger is active!
+2024-04-03 02:50:19,122 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:50:19,397 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:19] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:50:19,649 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:50:19,650 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:50:19,658 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:50:19,666 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:50:25,100 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:50:25,263 - INFO -  * Restarting with stat
+2024-04-03 02:50:26,793 - WARNING -  * Debugger is active!
+2024-04-03 02:50:26,796 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:50:26,948 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:26] "GET / HTTP/1.1" 200 -
+2024-04-03 02:50:27,697 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:27] "GET / HTTP/1.1" 200 -
+2024-04-03 02:50:35,051 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:50:35,191 - INFO -  * Restarting with stat
+2024-04-03 02:50:36,800 - WARNING -  * Debugger is active!
+2024-04-03 02:50:36,803 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:50:36,948 - INFO - 127.0.0.1 - - [03/Apr/2024 02:50:36] "GET / HTTP/1.1" 200 -
+2024-04-03 02:51:05,425 - INFO - 127.0.0.1 - - [03/Apr/2024 02:51:05] "GET / HTTP/1.1" 200 -
+2024-04-03 02:51:06,363 - INFO - 127.0.0.1 - - [03/Apr/2024 02:51:06] "GET / HTTP/1.1" 200 -
+2024-04-03 02:51:18,053 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:51:18,155 - INFO -  * Restarting with stat
+2024-04-03 02:51:19,554 - WARNING -  * Debugger is active!
+2024-04-03 02:51:19,556 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:51:20,964 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:51:21,096 - INFO -  * Restarting with stat
+2024-04-03 02:51:22,468 - WARNING -  * Debugger is active!
+2024-04-03 02:51:22,472 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:51:23,879 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:51:24,015 - INFO -  * Restarting with stat
+2024-04-03 02:51:25,463 - WARNING -  * Debugger is active!
+2024-04-03 02:51:25,466 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:51:26,868 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:51:27,014 - INFO -  * Restarting with stat
+2024-04-03 02:51:28,495 - WARNING -  * Debugger is active!
+2024-04-03 02:51:28,499 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:51:28,643 - INFO - 127.0.0.1 - - [03/Apr/2024 02:51:28] "GET / HTTP/1.1" 200 -
+2024-04-03 02:51:39,112 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:51:39,263 - INFO -  * Restarting with stat
+2024-04-03 02:51:40,655 - WARNING -  * Debugger is active!
+2024-04-03 02:51:40,658 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:52:02,643 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:52:02,809 - INFO -  * Restarting with stat
+2024-04-03 02:52:04,370 - WARNING -  * Debugger is active!
+2024-04-03 02:52:04,374 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:52:16,350 - INFO - 127.0.0.1 - - [03/Apr/2024 02:52:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 02:52:16,596 - INFO - 127.0.0.1 - - [03/Apr/2024 02:52:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 02:52:16,596 - INFO - 127.0.0.1 - - [03/Apr/2024 02:52:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 02:52:16,610 - INFO - 127.0.0.1 - - [03/Apr/2024 02:52:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:52:16,626 - INFO - 127.0.0.1 - - [03/Apr/2024 02:52:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 02:52:43,351 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:52:43,488 - INFO -  * Restarting with stat
+2024-04-03 02:52:44,703 - WARNING -  * Debugger is active!
+2024-04-03 02:52:44,706 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:52:55,216 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:52:55,371 - INFO -  * Restarting with stat
+2024-04-03 02:52:56,617 - WARNING -  * Debugger is active!
+2024-04-03 02:52:56,620 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:53:32,180 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:53:32,295 - INFO -  * Restarting with stat
+2024-04-03 02:53:33,568 - WARNING -  * Debugger is active!
+2024-04-03 02:53:33,571 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:54:59,074 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 02:54:59,185 - INFO -  * Restarting with stat
+2024-04-03 02:56:41,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 02:56:41,076 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 02:56:41,077 - INFO -  * Restarting with stat
+2024-04-03 02:56:42,361 - WARNING -  * Debugger is active!
+2024-04-03 02:56:42,364 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:56:52,835 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:56:52,952 - INFO -  * Restarting with stat
+2024-04-03 02:56:54,204 - WARNING -  * Debugger is active!
+2024-04-03 02:56:54,208 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:56:59,006 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\main.py', reloading
+2024-04-03 02:56:59,128 - INFO -  * Restarting with stat
+2024-04-03 02:57:00,446 - WARNING -  * Debugger is active!
+2024-04-03 02:57:00,450 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 02:57:00,594 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 02:57:00,913 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 401 80
+2024-04-03 02:57:00,914 - INFO - 127.0.0.1 - - [03/Apr/2024 02:57:00] "GET / HTTP/1.1" 200 -
+2024-04-03 02:58:03,431 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 02:58:03,743 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 401 80
+2024-04-03 02:58:03,745 - INFO - 127.0.0.1 - - [03/Apr/2024 02:58:03] "GET / HTTP/1.1" 200 -
+2024-04-03 02:59:42,127 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 02:59:42,451 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 401 80
+2024-04-03 02:59:42,453 - INFO - 127.0.0.1 - - [03/Apr/2024 02:59:42] "GET / HTTP/1.1" 200 -
+2024-04-03 03:03:04,144 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:03:04,249 - INFO -  * Restarting with stat
+2024-04-03 03:03:05,461 - WARNING -  * Debugger is active!
+2024-04-03 03:03:05,465 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:03:10,231 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:03:10,348 - INFO -  * Restarting with stat
+2024-04-03 03:03:11,596 - WARNING -  * Debugger is active!
+2024-04-03 03:03:11,599 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:04:55,237 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:04:55,343 - INFO -  * Restarting with stat
+2024-04-03 03:04:56,589 - WARNING -  * Debugger is active!
+2024-04-03 03:04:56,592 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:05:10,529 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:05:10,658 - INFO -  * Restarting with stat
+2024-04-03 03:05:11,963 - WARNING -  * Debugger is active!
+2024-04-03 03:05:11,965 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:05:21,894 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 03:05:22,136 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 03:05:22,137 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 03:05:22,148 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 03:05:22,163 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 03:05:32,717 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:05:32,827 - INFO -  * Restarting with stat
+2024-04-03 03:05:34,055 - WARNING -  * Debugger is active!
+2024-04-03 03:05:34,059 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:05:44,363 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 03:05:44,363 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 03:05:44,364 - INFO -  * Restarting with stat
+2024-04-03 03:05:45,546 - WARNING -  * Debugger is active!
+2024-04-03 03:05:45,550 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:05:48,681 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:05:49,003 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 401 80
+2024-04-03 03:05:49,004 - INFO - 127.0.0.1 - - [03/Apr/2024 03:05:49] "GET / HTTP/1.1" 200 -
+2024-04-03 03:06:42,511 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:06:42,639 - INFO -  * Restarting with stat
+2024-04-03 03:06:44,357 - WARNING -  * Debugger is active!
+2024-04-03 03:06:44,360 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:08:05,309 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:08:05,492 - INFO -  * Restarting with stat
+2024-04-03 03:08:07,156 - WARNING -  * Debugger is active!
+2024-04-03 03:08:07,159 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:08:32,426 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:08:32,543 - INFO -  * Restarting with stat
+2024-04-03 03:25:44,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 03:25:44,375 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 03:25:44,376 - INFO -  * Restarting with stat
+2024-04-03 03:25:45,808 - WARNING -  * Debugger is active!
+2024-04-03 03:25:45,811 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:25:58,598 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:25:59,008 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:25:59,016 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:25:59,447 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/trees HTTP/1.1" 201 3294
+2024-04-03 03:25:59,449 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:00,004 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/commits HTTP/1.1" 201 1437
+2024-04-03 03:26:00,006 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:00,588 - DEBUG - https://api.github.com:443 "PATCH /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:26:00,591 - INFO - 127.0.0.1 - - [03/Apr/2024 03:26:00] "GET / HTTP/1.1" 200 -
+2024-04-03 03:26:38,462 - DEBUG - Connecting to cluster, contact points: [<SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>, <SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>, <SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>]; protocol version: 66
+2024-04-03 03:26:38,462 - DEBUG - Validated loop dispatch with <class 'cassandra.io.asyncorereactor._BusyWaitDispatcher'>
+2024-04-03 03:26:38,463 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1 is now marked up
+2024-04-03 03:26:38,463 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d is now marked up
+2024-04-03 03:26:38,463 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c is now marked up
+2024-04-03 03:26:38,463 - DEBUG - [control connection] Opening new connection to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:38,937 - DEBUG - Starting asyncore event loop
+2024-04-03 03:26:38,948 - DEBUG - Sending initial options message for new connection (2420972509792) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:39,408 - DEBUG - Defuncting connection (2420972509792) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: <Error from server: code=000a [Protocol error] message="Invalid or unsupported protocol version (66); supported versions are (3/v3, 4/v4, 5/v5-beta)">
+2024-04-03 03:26:39,409 - DEBUG - Closing connection (2420972509792) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:39,409 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:39,409 - WARNING - Downgrading core protocol version from 66 to 65 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:26:40,458 - DEBUG - Sending initial options message for new connection (2420972531616) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:40,701 - DEBUG - Defuncting connection (2420972531616) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: <Error from server: code=000a [Protocol error] message="Invalid or unsupported protocol version (65); supported versions are (3/v3, 4/v4, 5/v5-beta)">
+2024-04-03 03:26:40,701 - DEBUG - Closing connection (2420972531616) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:40,701 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:40,701 - WARNING - Downgrading core protocol version from 65 to 5 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:26:41,984 - DEBUG - Sending initial options message for new connection (2420972529840) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:42,231 - ERROR - Closing connection <AsyncoreConnection(2420972529840) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d> due to protocol error: Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset"
+2024-04-03 03:26:42,231 - DEBUG - Defuncting connection (2420972529840) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: <Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset">
+2024-04-03 03:26:42,231 - DEBUG - Closing connection (2420972529840) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:42,231 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:42,231 - WARNING - Downgrading core protocol version from 5 to 4 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:26:43,506 - DEBUG - Sending initial options message for new connection (2420972510656) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:43,746 - DEBUG - Received options response on new connection (2420972510656) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:43,746 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2420972510656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:43,746 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2420972510656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:43,987 - DEBUG - Got AuthenticateMessage on new connection (2420972510656) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:26:43,987 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2420972510656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:44,237 - DEBUG - Connection <AsyncoreConnection(2420972510656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d> successfully authenticated
+2024-04-03 03:26:44,237 - DEBUG - [control connection] Established new connection <AsyncoreConnection(2420972510656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>, registering watchers and refreshing schema and topology
+2024-04-03 03:26:45,218 - DEBUG - [control connection] Refreshing node list and token map using preloaded results
+2024-04-03 03:26:45,218 - INFO - Using datacenter 'us-east1' for DCAwareRoundRobinPolicy (via host '910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2024-04-03 03:26:45,218 - DEBUG - [control connection] Finished fetching ring info
+2024-04-03 03:26:45,218 - DEBUG - [control connection] Rebuilding token map due to topology changes
+2024-04-03 03:26:45,956 - DEBUG - Control connection created
+2024-04-03 03:26:45,957 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:45,958 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:47,775 - DEBUG - Sending initial options message for new connection (2420973189392) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:47,775 - DEBUG - Sending initial options message for new connection (2420973182496) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:48,032 - DEBUG - Received options response on new connection (2420973189392) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:48,033 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2420973189392) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:26:48,033 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2420973189392) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:26:48,037 - DEBUG - Received options response on new connection (2420973182496) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:48,037 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2420973182496) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:48,037 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2420973182496) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:48,274 - DEBUG - Got AuthenticateMessage on new connection (2420973189392) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:26:48,274 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2420973189392) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:26:48,282 - DEBUG - Got AuthenticateMessage on new connection (2420973182496) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:26:48,282 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2420973182496) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:26:48,526 - DEBUG - Connection <AsyncoreConnection(2420973189392) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1> successfully authenticated
+2024-04-03 03:26:48,527 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:48,527 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1 to session
+2024-04-03 03:26:48,527 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:48,527 - DEBUG - Not starting MonitorReporter thread for Insights; not supported by server version 4.0.0.6816 on ControlConnection host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:48,527 - DEBUG - Started Session with client_id 85cee5d1-f6bc-4abc-9e20-e6941bd88e5f and session_id 189ef89c-bd8a-4525-90ee-d808991587f4
+2024-04-03 03:26:48,527 - DEBUG - Connection <AsyncoreConnection(2420973182496) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d> successfully authenticated
+2024-04-03 03:26:48,528 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:48,528 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d to session
+2024-04-03 03:26:49,079 - DEBUG - Sending initial options message for new connection (2420973181776) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:49,473 - DEBUG - Received options response on new connection (2420973181776) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:49,473 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2420973181776) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:26:49,473 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2420973181776) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:26:49,710 - DEBUG - Got AuthenticateMessage on new connection (2420973181776) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:26:49,710 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2420973181776) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:26:49,852 - DEBUG - Shutting down Cluster Scheduler
+2024-04-03 03:26:49,853 - DEBUG - Shutting down control connection
+2024-04-03 03:26:49,853 - DEBUG - Closing connection (2420972510656) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:49,853 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:49,956 - DEBUG - Connection <AsyncoreConnection(2420973181776) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c> successfully authenticated
+2024-04-03 03:26:50,204 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:50,204 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c to session
+2024-04-03 03:26:50,204 - DEBUG - Closing connection (2420973189392) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:50,204 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:26:50,204 - DEBUG - Closing connection (2420973182496) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:50,204 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:26:50,204 - DEBUG - Closing connection (2420973181776) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:50,204 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:26:50,209 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:50,623 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:26:50,633 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:51,281 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/trees HTTP/1.1" 201 3294
+2024-04-03 03:26:51,283 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:51,703 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/commits HTTP/1.1" 201 1437
+2024-04-03 03:26:51,705 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:26:52,330 - DEBUG - https://api.github.com:443 "PATCH /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:26:52,332 - INFO - 127.0.0.1 - - [03/Apr/2024 03:26:52] "GET /history HTTP/1.1" 200 -
+2024-04-03 03:33:06,313 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 03:33:06,313 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 03:33:06,314 - INFO -  * Restarting with stat
+2024-04-03 03:33:07,525 - WARNING -  * Debugger is active!
+2024-04-03 03:33:07,528 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:33:24,032 - INFO - 127.0.0.1 - - [03/Apr/2024 03:33:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-03 03:33:24,286 - INFO - 127.0.0.1 - - [03/Apr/2024 03:33:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-03 03:33:24,287 - INFO - 127.0.0.1 - - [03/Apr/2024 03:33:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-03 03:33:24,312 - INFO - 127.0.0.1 - - [03/Apr/2024 03:33:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 03:33:24,328 - INFO - 127.0.0.1 - - [03/Apr/2024 03:33:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-03 03:34:35,813 - INFO -  * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-based-Associative-Classification-data-mining\\api_server\\logs\\git_logger.py', reloading
+2024-04-03 03:34:36,010 - INFO -  * Restarting with stat
+2024-04-03 03:34:37,392 - WARNING -  * Debugger is active!
+2024-04-03 03:34:37,396 - INFO -  * Debugger PIN: 136-611-737
+2024-04-03 03:34:48,917 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:34:49,328 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:34:49,336 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:34:49,788 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/trees HTTP/1.1" 201 3294
+2024-04-03 03:34:49,794 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:34:50,272 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/commits HTTP/1.1" 201 1437
+2024-04-03 03:34:50,274 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:34:50,839 - DEBUG - https://api.github.com:443 "PATCH /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:34:50,841 - INFO - 127.0.0.1 - - [03/Apr/2024 03:34:50] "GET / HTTP/1.1" 200 -
+2024-04-03 03:35:06,101 - DEBUG - Connecting to cluster, contact points: [<SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>, <SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>, <SniEndPoint: 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>]; protocol version: 66
+2024-04-03 03:35:06,101 - DEBUG - Validated loop dispatch with <class 'cassandra.io.asyncorereactor._BusyWaitDispatcher'>
+2024-04-03 03:35:06,101 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1 is now marked up
+2024-04-03 03:35:06,101 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d is now marked up
+2024-04-03 03:35:06,101 - DEBUG - Host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c is now marked up
+2024-04-03 03:35:06,101 - DEBUG - [control connection] Opening new connection to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:06,581 - DEBUG - Starting asyncore event loop
+2024-04-03 03:35:06,600 - DEBUG - Sending initial options message for new connection (2489949335120) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:07,054 - DEBUG - Defuncting connection (2489949335120) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: <Error from server: code=000a [Protocol error] message="Invalid or unsupported protocol version (66); supported versions are (3/v3, 4/v4, 5/v5-beta)">
+2024-04-03 03:35:07,054 - DEBUG - Closing connection (2489949335120) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:07,054 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:07,055 - WARNING - Downgrading core protocol version from 66 to 65 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:35:08,118 - DEBUG - Sending initial options message for new connection (2489949635248) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:08,366 - DEBUG - Defuncting connection (2489949635248) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: <Error from server: code=000a [Protocol error] message="Invalid or unsupported protocol version (65); supported versions are (3/v3, 4/v4, 5/v5-beta)">
+2024-04-03 03:35:08,366 - DEBUG - Closing connection (2489949635248) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:08,367 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:08,367 - WARNING - Downgrading core protocol version from 65 to 5 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:35:09,647 - DEBUG - Sending initial options message for new connection (2489949636160) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:09,888 - ERROR - Closing connection <AsyncoreConnection(2489949636160) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1> due to protocol error: Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset"
+2024-04-03 03:35:09,888 - DEBUG - Defuncting connection (2489949636160) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: <Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset">
+2024-04-03 03:35:09,888 - DEBUG - Closing connection (2489949636160) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:09,888 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:09,888 - WARNING - Downgrading core protocol version from 5 to 4 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+2024-04-03 03:35:11,160 - DEBUG - Sending initial options message for new connection (2489949335456) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:11,408 - DEBUG - Received options response on new connection (2489949335456) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:11,408 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2489949335456) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:11,408 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2489949335456) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:11,657 - DEBUG - Got AuthenticateMessage on new connection (2489949335456) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:35:11,657 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2489949335456) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:11,916 - DEBUG - Connection <AsyncoreConnection(2489949335456) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1> successfully authenticated
+2024-04-03 03:35:11,917 - DEBUG - [control connection] Established new connection <AsyncoreConnection(2489949335456) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>, registering watchers and refreshing schema and topology
+2024-04-03 03:35:12,931 - DEBUG - [control connection] Refreshing node list and token map using preloaded results
+2024-04-03 03:35:12,931 - INFO - Using datacenter 'us-east1' for DCAwareRoundRobinPolicy (via host '910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1'); if incorrect, please specify a local_dc to the constructor, or limit contact points to local cluster nodes
+2024-04-03 03:35:12,931 - DEBUG - [control connection] Finished fetching ring info
+2024-04-03 03:35:12,931 - DEBUG - [control connection] Rebuilding token map due to topology changes
+2024-04-03 03:35:13,711 - DEBUG - Control connection created
+2024-04-03 03:35:13,712 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:13,712 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:15,449 - DEBUG - Sending initial options message for new connection (2489951264976) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:15,449 - DEBUG - Sending initial options message for new connection (2489949952944) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:15,687 - DEBUG - Received options response on new connection (2489951264976) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:15,687 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2489951264976) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:35:15,687 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2489951264976) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:35:15,692 - DEBUG - Received options response on new connection (2489949952944) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:15,692 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2489949952944) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:15,692 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2489949952944) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:15,925 - DEBUG - Got AuthenticateMessage on new connection (2489951264976) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:35:15,925 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2489951264976) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d>
+2024-04-03 03:35:15,935 - DEBUG - Got AuthenticateMessage on new connection (2489949952944) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:35:15,935 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2489949952944) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1>
+2024-04-03 03:35:16,172 - DEBUG - Connection <AsyncoreConnection(2489951264976) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d> successfully authenticated
+2024-04-03 03:35:16,172 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:16,172 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d to session
+2024-04-03 03:35:16,173 - DEBUG - Initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:16,178 - DEBUG - Connection <AsyncoreConnection(2489949952944) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1> successfully authenticated
+2024-04-03 03:35:16,179 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:16,179 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1 to session
+2024-04-03 03:35:16,821 - DEBUG - Sending initial options message for new connection (2489949778224) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:17,158 - DEBUG - Received options response on new connection (2489949778224) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:17,158 - DEBUG - Sending StartupMessage on <AsyncoreConnection(2489949778224) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:35:17,158 - DEBUG - Sent StartupMessage on <AsyncoreConnection(2489949778224) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:35:17,405 - DEBUG - Got AuthenticateMessage on new connection (2489949778224) from 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c: org.apache.cassandra.auth.PasswordAuthenticator
+2024-04-03 03:35:17,405 - DEBUG - Sending SASL-based auth response on <AsyncoreConnection(2489949778224) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c>
+2024-04-03 03:35:17,661 - DEBUG - Connection <AsyncoreConnection(2489949778224) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c> successfully authenticated
+2024-04-03 03:35:17,661 - DEBUG - Finished initializing connection for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:17,661 - DEBUG - Added pool for host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c to session
+2024-04-03 03:35:17,662 - DEBUG - Not starting MonitorReporter thread for Insights; not supported by server version 4.0.0.6816 on ControlConnection host 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:17,662 - DEBUG - Started Session with client_id ddd4de6d-5ea8-45b6-8a95-ea86feaf53c2 and session_id 26415b4e-c265-4540-bb9f-f03d3ade4274
+2024-04-03 03:35:18,967 - DEBUG - Shutting down Cluster Scheduler
+2024-04-03 03:35:18,967 - DEBUG - Shutting down control connection
+2024-04-03 03:35:18,967 - DEBUG - Closing connection (2489949335456) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:18,967 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:18,968 - DEBUG - Closing connection (2489951264976) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:18,968 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d
+2024-04-03 03:35:18,968 - DEBUG - Closing connection (2489949952944) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:18,968 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1
+2024-04-03 03:35:18,968 - DEBUG - Closing connection (2489949778224) to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:18,968 - DEBUG - Closed socket to 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:35b8121d-0bf7-458a-a4f4-d37143d8d54c
+2024-04-03 03:35:18,973 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:35:19,390 - DEBUG - https://api.github.com:443 "GET /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:35:19,398 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:35:19,873 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/trees HTTP/1.1" 201 3294
+2024-04-03 03:35:19,876 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:35:20,335 - DEBUG - https://api.github.com:443 "POST /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/commits HTTP/1.1" 201 1437
+2024-04-03 03:35:20,337 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-04-03 03:35:20,911 - DEBUG - https://api.github.com:443 "PATCH /repos/namansehwal/Phishing-detection-based-Associative-Classification-data-mining/git/refs/heads/logs HTTP/1.1" 200 None
+2024-04-03 03:35:20,914 - INFO - 127.0.0.1 - - [03/Apr/2024 03:35:20] "GET /history HTTP/1.1" 200 -
