@@ -6,10 +6,11 @@ import requests
 def get_changed_files(directory):
     # Retrieve list of changed log files
     changed_files = []
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.endswith(".txt"):  # Assuming only text files are logged
-                changed_files.append(os.path.join(root, file))
+    # today date
+    date = datetime.datetime.now().strftime("%Y-%m-%d")
+    file_path = os.path.join(os.path.dirname(__file__), date + ".log")
+    changed_files.append(file_path)
+    print("Changed files are ", changed_files)
     return changed_files
 
 
@@ -35,7 +36,7 @@ def to_github(
     # Get the latest commit SHA for the branch
     response = requests.get(url, headers=headers)
     response_json = response.json()
-
+    print(response_json)
     # Check if 'object' key exists in the response
     if "object" not in response_json:
         print("Error: 'object' key not found in response.")

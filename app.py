@@ -21,7 +21,10 @@ model_path = os.path.join(
 )
 model = joblib.load(model_path)
 
-logging.basicConfig(filename="app.log", format="%(levelname)s:%(name)s:%(message)s")
+date = datetime.datetime.now().strftime("%Y-%m-%d")
+filepath = os.path.join(os.path.dirname(__file__), "logs", date + ".log")
+
+logging.basicConfig(filename=filepath, format="%(levelname)s:%(name)s:%(message)s")
 
 
 @app.route("/predict", methods=["POST"])
