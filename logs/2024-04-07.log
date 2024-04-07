@@ -20,3 +20,76 @@ INFO:werkzeug: * Debugger PIN: 711-014-298
 INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:06:33] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:06:38] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:06:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:26:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:26:42] "POST / HTTP/1.1" 200 -
+WARNING:cassandra.cluster:Downgrading core protocol version from 66 to 65 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+WARNING:cassandra.cluster:Downgrading core protocol version from 65 to 5 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+ERROR:cassandra.connection:Closing connection <AsyncoreConnection(2232104113152) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d> due to protocol error: Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset"
+WARNING:cassandra.cluster:Downgrading core protocol version from 5 to 4 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:4a9a4582-93bb-4bf1-b281-c49f3c3a544d. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+WARNING:cassandra.cluster:Downgrading core protocol version from 66 to 65 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+WARNING:cassandra.cluster:Downgrading core protocol version from 65 to 5 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+ERROR:cassandra.connection:Closing connection <AsyncoreConnection(2206061396656) 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1> due to protocol error: Error from server: code=000a [Protocol error] message="Beta version of the protocol used (5/v5-beta), but USE_BETA flag is unset"
+WARNING:cassandra.cluster:Downgrading core protocol version from 5 to 4 for 910ac3f9-61e7-46c9-84eb-08ea4df5d58a-us-east1.db.astra.datastax.com:29042:acb3b6dc-cf73-4ff9-af4d-803e55f28ec1. To avoid this, it is best practice to explicitly set Cluster(protocol_version) to the version supported by your cluster. http://datastax.github.io/python-driver/api/cassandra/cluster.html#cassandra.cluster.Cluster.protocol_version
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:28:41] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:24] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:24] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 23:30:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\naman\\Documents\\GitHub\\Phishing-detection-deployment\\logs\\git_logger.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-014-298

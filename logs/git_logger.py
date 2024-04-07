@@ -3,15 +3,12 @@ import datetime
 import requests
 
 
-def get_changed_files(directory):
-    # Retrieve list of changed log files
-    changed_files = []
-    # today date
+def get_changed_file(directory):
+    # today's date
     date = datetime.datetime.now().strftime("%Y-%m-%d")
-    file_path = os.path.join(os.path.dirname(__file__), date + ".log")
-    changed_files.append(file_path)
-    print("Changed files are ", changed_files)
-    return changed_files
+    file_path = os.path.join(directory, date + ".log")
+
+    return file_path
 
 
 def to_github(
@@ -20,11 +17,10 @@ def to_github(
     branch_name,
     github_token,
     commit_message,
-    files,
-    log_directory,
+    file_path,
 ):
-    if not files:
-        print("No files have changed. Skipping commit.")
+    if file_path is None:
+        print("No file to commit. Skipping.")
         return
 
     url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/git/refs/heads/{branch_name}"
@@ -44,18 +40,19 @@ def to_github(
 
     latest_commit_sha = response_json["object"]["sha"]
 
-    # Create a new tree with the updated files
+    # Get content of the file
+    with open(file_path, "r", encoding="utf-8") as file:
+        file_content = file.read()
+
+    # Create a new tree with the updated file
     tree_data = {
         "base_tree": latest_commit_sha,
         "tree": [
             {
                 "path": file_path.split("/")[-1],  # Only take the filename
                 "mode": "100644",
-                "content": open(
-                    file_path, "r", encoding="utf-8"
-                ).read(),  # Specify encoding
+                "content": file_content,
             }
-            for file_path in files
         ],
     }
     response = requests.post(
@@ -82,7 +79,7 @@ def to_github(
 
 
 def commit_to_github(commit_message):
-    log_directory = "./"
+    log_directory = "./logs"
     repo_owner = "namansehwal"
     repo_name = "Phishing-detection-based-Associative-Classification-data-mining"
     branch_name = "logs"
@@ -91,7 +88,8 @@ def commit_to_github(commit_message):
     load_dotenv()
     github_token = os.environ["GITHUB_TOKEN"]
     # print("GitHub Token is ", github_token)
-    files = get_changed_files(log_directory)
+
+    file_path = get_changed_file(log_directory)
 
     to_github(
         repo_owner,
@@ -99,6 +97,9 @@ def commit_to_github(commit_message):
         branch_name,
         github_token,
         commit_message,
-        files,
-        log_directory,
+        file_path,
     )
+
+
+# # Call commit_to_github with your commit message
+# commit_to_github("Your commit message here")
