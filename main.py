@@ -1,34 +1,3 @@
-import os
-import datetime
-import threading
-import logging
-
-from flask import Flask, request, jsonify, render_template
-import joblib
-from connect_database import add_entry, fetch_all_entries
-from utils.url_parser import URLParser
-
-from logs.git_logger import commit_to_github
-
-app = Flask(__name__)
-
-# Set up logging
-log_file = os.path.join(
-    os.path.dirname(__file__),
-    f"logs/log_{datetime.datetime.now().strftime('%Y-%m-%d')}.txt",
-)
-logging.basicConfig(
-    filename=log_file,
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-log_lock = threading.Lock()
-
-model_path = os.path.join(
-    os.path.dirname(__file__), "utils/trained_models/phishing_model.pkl"
-)
-model = joblib.load(model_path)
-
 
 def safe_logging(msg):
     with log_lock:
@@ -139,14 +108,7 @@ def predictui():
             return render_template("index.html", prediction="broken url", url=url)
 
 
-@app.after_request
-def after_request(response):
-    print("Request processed Successfully!")
-    date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    commit_message = f"Updating log for {date}"
 
-    commit_to_github(commit_message=commit_message)
-    return response
 
 
 if __name__ == "__main__":

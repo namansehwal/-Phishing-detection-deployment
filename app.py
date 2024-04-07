@@ -10,6 +10,9 @@ from connect_database import add_entry, fetch_all_entries
 
 from utils.url_parser import URLParser
 
+from logs.git_logger import commit_to_github
+
+
 app = Flask(__name__)
 
 
@@ -18,7 +21,8 @@ model_path = os.path.join(
 )
 model = joblib.load(model_path)
 
-logging.basicConfig(filename='app.log', format="%(levelname)s:%(name)s:%(message)s")
+logging.basicConfig(filename="app.log", format="%(levelname)s:%(name)s:%(message)s")
+
 
 @app.route("/predict", methods=["POST"])
 def predict():
@@ -111,6 +115,16 @@ def predictui():
         except Exception as e:
             print(e)
             return render_template("index.html", prediction="broken url", url=url)
+
+
+@app.after_request
+def after_request(response):
+    print("Request processed Successfully!")
+    date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    commit_message = f"Updating log for {date}"
+
+    commit_to_github(commit_message=commit_message)
+    return response
 
 
 if __name__ == "__main__":

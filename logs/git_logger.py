@@ -50,7 +50,9 @@ def to_github(
             {
                 "path": file_path.split("/")[-1],  # Only take the filename
                 "mode": "100644",
-                "content": open(file_path, "r").read(),
+                "content": open(
+                    file_path, "r", encoding="utf-8"
+                ).read(),  # Specify encoding
             }
             for file_path in files
         ],
@@ -87,7 +89,7 @@ def commit_to_github(commit_message):
 
     load_dotenv()
     github_token = os.environ["GITHUB_TOKEN"]
-
+    # print("GitHub Token is ", github_token)
     files = get_changed_files(log_directory)
 
     to_github(
