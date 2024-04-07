@@ -82,7 +82,7 @@ def commit_to_github(commit_message):
     log_directory = "./logs"
     repo_owner = "namansehwal"
     repo_name = "Phishing-detection-based-Associative-Classification-data-mining"
-    branch_name = "logs"
+    branch_name = "azure_logs"
     from dotenv import load_dotenv
 
     load_dotenv()
